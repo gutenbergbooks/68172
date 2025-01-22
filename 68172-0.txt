@@ -16,7 +16,6 @@ Title: The man in grey
 Author: Baroness Emmuska Orczy
 
 Release Date: May 25, 2022 [eBook #68172]
-[Last updated: July 3, 2022]
 
 Language: English
 
@@ -8192,7 +8191,7 @@ saddle-sore, and this abominable damp has got into my bones."
 
 The other sighed with obvious impatience.
 
-"I would like to push on to Paris to-night," he said.  "The moon
+"I would like to push on to Paris to-night," lie said.  "The moon
 will be up directly, and I believe the rain-clouds will clear.  In
 any case the night will not be very dark, and I know every inch of
 the way."
